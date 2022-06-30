@@ -45,7 +45,7 @@ Foi utilizado CSS com Flexbox, onde foi trabalhado o posicionamento dos elemento
 
 
 Projeto desenvolvido durante a Santander Bootcamp Fullstack Developer
-<img alt = "logo" src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" width="200px>
+<img alt = "logo" src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" width="200px">
 
 ---
 
