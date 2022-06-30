@@ -39,14 +39,14 @@
 
 
 ## 💻 Sobre o projeto
-
+<p align="center">
 Nesse projeto foi lançado o desafio de reconstruir a página de login do Instagram.
 Foi utilizado CSS com Flexbox, onde foi trabalhado o posicionamento dos elementos e a  responsividade
 
 
 Projeto desenvolvido durante a Santander Bootcamp Fullstack Developer
 <img alt = "logo" src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" width="200px">
-
+</p>
 ---
 
 
