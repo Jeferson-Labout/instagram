@@ -80,7 +80,7 @@ Projeto desenvolvido durante a Santander Bootcamp Fullstack Developer
 
 
 # Clone este repositório
-$ git clone git@github.com:Jeferson-Labout/instagram.git
+$ git clone https://github.com/Jeferson-Labout/instagram.git
 
 
 
